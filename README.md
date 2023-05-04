@@ -11,9 +11,7 @@ Autorius: Paulius Milmantas, 2023
 
 - **.ows** - Galima atsidaryti, naudojant duomenų analizės programą [Orange](https://orangedatamining.com/)
 
-- **.ipynb** - Galima skaityti, naudojant [Google Colab](https://colab.research.google.com/)
-
-aplinkoje.
+- **.ipynb** - Galima skaityti, naudojant [Google Colab](https://colab.research.google.com/) aplinkoje.
 
   
 
@@ -44,9 +42,7 @@ aplinkoje.
 
   
 
-- **Transformacijos/Hidrofobiškumas.ipynb** - Pagalbinė programa
-
-hidrofobiškumo reikšmių skaičiavimui. Priima MSA struktūrą, išveda hidrofobiškumo reikšmes kiekvienai sekai.
+- **Transformacijos/Hidrofobiškumas.ipynb** - Pagalbinė programa hidrofobiškumo reikšmių skaičiavimui. Priima MSA struktūrą, išveda hidrofobiškumo reikšmes kiekvienai sekai.
 
   
 
