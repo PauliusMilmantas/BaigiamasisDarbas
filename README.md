@@ -9,13 +9,9 @@ Autorius: Paulius Milmantas, 2023
 
   
 
-- **.ows** - Galima atsidaryti, naudojant duomenų analizės programą
+- **.ows** - Galima atsidaryti, naudojant duomenų analizės programą [Orange](https://orangedatamining.com/)
 
-[Orange](https://orangedatamining.com/)
-
-- **.ipynb** - Galima skaityti,
-
-naudojant [Google Colab](https://colab.research.google.com/)
+- **.ipynb** - Galima skaityti, naudojant [Google Colab](https://colab.research.google.com/)
 
 aplinkoje.
 
@@ -24,8 +20,7 @@ aplinkoje.
 ## Pateikti duomenų analizės failai:
 
  - **Transformacijos/Hidrofobiškumas.ows** - Atlikta duomenų koreliacijos ir paprastų mašininio mokymosi modelių analizė.
- - **Analize/ImportantSeqModel.ows** - Sekų kritiškumo analizė. Naudojami
-   duomenys - *'Duomenys/Kritiskumas/test_fb11d.csv'*
+ - **Analize/ImportantSeqModel.ows** - Sekų kritiškumo analizė. Naudojami duomenys - *'Duomenys/Kritiskumas/test_fb11d.csv'*
 
 ## Surinkti duomenys
 
@@ -59,16 +54,8 @@ hidrofobiškumo reikšmių skaičiavimui. Priima MSA struktūrą, išveda hidrof
 
   
 
-- **PagalbinesProgramos/Permutations.ipynb** - Generuojami duomenys, kurie
+- **PagalbinesProgramos/Permutations.ipynb** - Generuojami duomenys, kurie turi būti paduoti AlphaFold programai.
 
-turi būti paduoti AlphaFold programai.
+- **PagalbinesProgramos/SequenceAnalysis.ipynb** - Analizuojamos baltymų sekos ir atrenkama jų dalis, testavimo duomenų rinkiniams generuoti.
 
-- **PagalbinesProgramos/SequenceAnalysis.ipynb** - Analizuojamos baltymų
-
-sekos ir atrenkama jų dalis, testavimo duomenų rinkiniams generuoti.
-
-- **PagalbinesProgramos/TimeWarping.ipynb** - Sekų ilgių suvienodinimas.
-
-Taip sekos yra paruošiamos neuroniniams tinklams vėlesniam tyrimo
-
-etapui.
+- **PagalbinesProgramos/TimeWarping.ipynb** - Sekų ilgių suvienodinimas. Taip sekos yra paruošiamos neuroniniams tinklams vėlesniam tyrimo etapui.
