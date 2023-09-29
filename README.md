@@ -22,19 +22,18 @@ Autorius: Paulius Milmantas, 2023
 
 ## Surinkti duomenys
 
- - **Duomenys/Hidrofobiskumas/stats.xlsx** - Surinkti kiekvienos iteracijos duomenys:
-
- - Sekos pozicija MSA struktūroje. Tyrimo tikslas - sukurti metodą, gebantį prognozuoti optimalias sekų pozicijas, gaunant MSA struktūrą, su kuria AlphaFold duos tiksliausius rezultatus.
-
- - Baltymų sekos
-
- - Kiekvienos amino rūgšties skaičius sekoje
-
- - Sekų hidrofobiškumo reikšmės
-
- - **Duomenys/Hidrofobiskumas/stats.csv** - Transformuotas stats.xlxs failas, paruoštas analizei.
-
- - **Duomenys/Kritiskumas/test_fb11d.csv** - Sekų kritiškumo duomenys, gauti bandymo būdu pašalinant atitinkamas sekas.
+ - **Duomenys/Hidrofobiskumas/stats.xlsx** (nevalidūs) - Surinkti kiekvienos iteracijos duomenys:
+   - Sekos pozicija MSA struktūroje. Tyrimo tikslas - sukurti metodą, gebantį prognozuoti optimalias sekų pozicijas, gaunant MSA struktūrą, su kuria AlphaFold duos tiksliausius rezultatus.
+  
+   - Baltymų sekos
+  
+   - Kiekvienos amino rūgšties skaičius sekoje
+  
+   - Sekų hidrofobiškumo reikšmės
+  
+   - **Duomenys/Hidrofobiskumas/stats.csv** - Transformuotas stats.xlxs failas, paruoštas analizei.
+  
+   - **Duomenys/Kritiskumas/test_fb11d.csv** - Sekų kritiškumo duomenys, gauti bandymo būdu pašalinant atitinkamas sekas.
 
   
 
